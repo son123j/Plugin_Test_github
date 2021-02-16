@@ -1,0 +1,4 @@
+name: Plugin_test
+version: 1.0-SNAPSHOT
+main: com.Plugin_test.plugin.Main
+api-version: 1.16
