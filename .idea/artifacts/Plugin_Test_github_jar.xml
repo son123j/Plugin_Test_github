@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Plugin_Test_github:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Plugin_Test_github_jar</output-path>
+    <root id="archive" name="Plugin_Test_github.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/Plugin_test" />
+      <element id="file-copy" path="$PROJECT_DIR$/Plugin_test/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
